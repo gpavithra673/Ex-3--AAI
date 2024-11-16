@@ -1,7 +1,7 @@
-<H3>Pavithra G</H3>
-<H3>212221240036</H3>
-<H3>EX. NO.3</H3>
-<H3>DATE:</H3>
+<H5>Pavithra G</H5>
+<H5>212221240036</H5>
+<H5>EX. NO.3</H5>
+<H5>DATE:</H5>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
